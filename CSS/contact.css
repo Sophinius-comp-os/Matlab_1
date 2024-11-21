@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(23, 129, 234, 0.91);
+    margin: auto;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 20px;
+    color: blueviolet;
+    text-align: center;
+}
+p{
+    color: #060707;
+}
+img{
+    width: 180px;
+    height: 160px
+}
+form{
+    background-color: white;
+    width: 60%;
+    margin: auto;
+    padding: 40px;
+    font-size: 20px;
+    border-radius: 15px;
+    box-shadow: 12px 12px 7px 8px lightslategray;
+}
+button{
+    background-color: #7c7cd5;
+     width: 30%;
+    height: 35px;
+    border-radius: 10px;
+    color: white;
+    display: block;
+}
+
+#container1{
+    text-align: start;
+    float: right;
+
+
+}
+#container{
+    float: left;
+}

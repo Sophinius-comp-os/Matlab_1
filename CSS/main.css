@@ -1,0 +1,31 @@
+ img {
+
+     display: block;
+     margin: 0 auto;
+     padding-left: 10px;
+     padding-top: 20px;
+     image-orientation: initial;
+     align-items: center;
+
+
+ }
+
+ h1{
+    font-size: 20px;
+    padding-left: 25px;
+    text-align: center;
+     margin: auto;
+}
+
+ h2{
+     padding-left: 65px;
+     color: maroon;
+     justify-content: center;
+
+ }
+ p{
+     font-size: 15px;
+     font-style: normal;
+     padding-left: 65px;
+     text-align: justify-all;
+ }
